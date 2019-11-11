@@ -44,7 +44,8 @@ li a:hover {
 
 h1 {
     color: white;
-    border: 5px solid red
+    border: 5px outset red;
+
 }
 
 p1 {
