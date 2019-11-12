@@ -44,10 +44,19 @@ li a:hover {
 
 h1 {
     color: white;
-    border: 5px outset red;
-
 }
 
 p1 {
     color: white;
+}
+
+p2 {
+    color: white;
+}
+
+.tekst{
+    width: 750px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
 }
