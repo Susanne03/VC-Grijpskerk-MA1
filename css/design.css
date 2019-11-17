@@ -84,7 +84,7 @@ li a:hover {
 .foto{
     width: 100%;
     margin-top: 1%;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 
 .wedstrijden{
@@ -98,7 +98,7 @@ li a:hover {
 }
 
 .poule{
-     color:white; 
+    color:white; 
     width: 750px;
     padding: 10px; 
     border: 5px solid gray;
@@ -107,4 +107,22 @@ li a:hover {
     margin-bottom: 1%;
 }
 
+.uitslagen{
+    color:white;
+    width: 750px;
+    padding: 10px; 
+    border: 5px solid gray;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+
+.picture{
+    width: 100%;
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+}
 
